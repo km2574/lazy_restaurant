@@ -4,14 +4,14 @@
 }
 
 .row-content {
-  margin: 0px auto;
   padding: 50px 0px 50px 0px;
   border-bottom: 1px ridge;
+  margin-bottom: 30px;
   min-height: 400px;
 }
 
 .footer {
-  background-color: red;
+  background-color: #757575;
   margin: 0px auto;
   padding: 20px 0px 20px 0px;
 }
@@ -19,10 +19,12 @@
 .jumbotron {
   padding: 70px 30px 70px 30px;
   margin: 0px auto;
-  background: #9575CD;
+  background: #757575;
   color: floralwhite;
 }
-
+.content-row {
+  margin-left: 2px;
+}
 .address {
   font-size: 80%;
   margin: 0px;
