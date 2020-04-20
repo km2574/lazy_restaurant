@@ -29,7 +29,7 @@
 }
 .content-row {
   margin-left: 2px;
-}              
+}
 .address {
   font-size: 80%;
   margin: 0px;
@@ -43,4 +43,11 @@ body{
 
 .navbar-dark {
   background-color:#512DA8;
+}
+
+.tab-content{
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
 }
